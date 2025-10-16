@@ -1,0 +1,32 @@
+{
+  "name": "missionbe2-inter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@prisma/client": "^6.17.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "prisma": "^6.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.37.0",
+    "nodemon": "^3.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irgiadit7/missionBE2-Inter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/irgiadit7/missionBE2-Inter/issues"
+  },
+  "homepage": "https://github.com/irgiadit7/missionBE2-Inter#readme"
+}
